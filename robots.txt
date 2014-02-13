@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://ChiAnJ.github.io/sitemap.xml 
